@@ -1,0 +1,3 @@
+rootProject.name = 'rnfcm'
+
+include ':app'
